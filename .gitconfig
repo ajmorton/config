@@ -1,0 +1,6 @@
+[user]
+	name = ajmorton
+	email = ajmorton2@gmail.com
+
+[alias]
+	logp = !git log --graph --pretty=format:'%C(auto,cyan)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --date=relative --branches
